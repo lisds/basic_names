@@ -19,7 +19,6 @@ test = {
           >>> # also_roughly_e, or n is not large enough.
           >>> # Hint: Your expression should start like this:
           >>> #   also_roughly_e = (1 + 1/n)...
-          >>> import numpy as np
           >>> np.isclose(round(1 / (also_roughly_e**(1/n) - 1), 2), round(n, 2))
           True
           """,
