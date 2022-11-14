@@ -8,3 +8,4 @@ ipython
 jupytext
 statsmodels
 sqlalchemy
+okpy
